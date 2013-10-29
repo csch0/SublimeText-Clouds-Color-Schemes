@@ -1,6 +1,6 @@
-# TextMate Clouds
+# Clouds Color Schemes
 
-The TextMate version of [Clouds](http://fredhq.com/projects/clouds).
+The TextMate version of [Clouds](https://github.com/fredhq/Clouds).
 
 ## Take a look!
 
